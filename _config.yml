@@ -25,7 +25,7 @@ roles:
 front_page_news: 8
 
 # Base pathname for links.
-base: ''
+base: rei0721.github.io
 
 # make pages for the _projects folder
 collections:
